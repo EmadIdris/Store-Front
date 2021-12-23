@@ -1,0 +1,30 @@
+
+#headerFont{
+    font-family: 'Imperial Script', cursive;
+    font-size: 60px;
+    font-weight: 500;
+    text-shadow: rgb(120, 147, 21) 3px 2px;
+}
+
+.cancelButton{
+    cursor: pointer;
+}
+
+#appBar{
+    background-color: rgb(37, 34, 34);
+    height: 160px 
+}
+
+#homeIconStyle{
+    position: absolute;
+    bottom: 10px;
+    top: 120px;
+    right: 90px;
+}
+
+#cartIconStyle{
+    position: absolute;
+    bottom: 10px;
+    top: 120px;
+    right: 40px;
+}

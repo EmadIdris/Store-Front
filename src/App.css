@@ -1,0 +1,9 @@
+
+html{
+    width: 100vw;
+    margin: auto;
+    text-align: center;
+    color: white;
+    background-color: #151519;
+    overflow-x: hidden;
+  }
