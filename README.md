@@ -4,7 +4,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d351203e-f6c3-4bc7-92a5-10982bd4a44d/deploy-status)](https://elastic-thompson-00bfcb.netlify.app)
 
-[Link to Deployed App](https://elastic-thompson-00bfcb.netlify.app)
+[Heroku](https://store-app-server.herokuapp.com)
 
 [Link to PR](https://github.com/EmadIdris/Store-Front/pull/1)
 
